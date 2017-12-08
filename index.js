@@ -1,7 +1,7 @@
 
 
 module.exports = {
-    name: 'core.plugin.actions',
+    name: 'core.loader.actions',
     hooks: [{
         channel: 'core.pluginDefinition',
         hook(pluginDefinition, next){
