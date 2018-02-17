@@ -1,6 +1,6 @@
 {
     "name": "core.loader.actions",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "load actions from plugin definition",
     "main": "index.js",
     "scripts": {
