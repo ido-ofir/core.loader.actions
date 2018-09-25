@@ -26,6 +26,7 @@ core.plugin({
     ]
 });
 
+// run the newly created action
 core.run('test.someAction', { some: 'data' }).then(ok => { ... })
 
 ```
